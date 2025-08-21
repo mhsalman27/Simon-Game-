@@ -4,10 +4,10 @@ The Simon Game is a classic memory challenge where you test how well you can rec
 
 # How to Play
 
-➤ Start – Press any key to begin
-➤ Memorize – Watch the color sequence that flashes on the screen
-➤ Repeat – Click the colors in the same order
-➤ Level Up – Each correct round takes you to the next level with a longer sequence
+➤ Start – Press any key to begin <br>
+➤ Memorize – Watch the color sequence that flashes on the screen <br> 
+➤ Repeat – Click the colors in the same order <br>
+➤ Level Up – Each correct round takes you to the next level with a longer sequence <br>
 ➤ Game Over – A wrong click ends the game, and you can restart anytime
 
 # Features
