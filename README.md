@@ -12,13 +12,13 @@ The Simon Game is a classic memory challenge where you test how well you can rec
 
 # Features
 
-✔ Dynamic levels that increase difficulty
-✔ Visual and sound feedback for every action
-✔ Simple, fun, and interactive gameplay
-✔ Built using HTML, CSS, and JavaScript
+✔ Dynamic levels that increase difficulty <br>
+✔ Visual and sound feedback for every action <br>
+✔ Simple, fun, and interactive gameplay <br>
+✔ Built using HTML, CSS, and JavaScript <br>
 
 # Tech Stack
 
-🔹 HTML → Page structure
-🔹 CSS → Styling & animations
-🔹 JavaScript → Core game logic
+🔹 HTML → Page structure <br>
+🔹 CSS → Styling & animations <br>
+🔹 JavaScript → Core game logic <br>
